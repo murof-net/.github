@@ -3,13 +3,13 @@
 Murof is a DAO-enabled cooperative platform on a mission to create the educational infrastructure of the future.
 
 # Who are we?
----
+
 
 # Contribution guielines
----
+
 
 # Resources
----
+
 
 <!--
 
